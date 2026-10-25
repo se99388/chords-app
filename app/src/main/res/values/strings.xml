@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chords</string>
+    <string name="hint">Song name</string>
+    <string name="search">Search</string>
+    <string name="chords_only">Chords only</string>
+    <string name="smaller">A−</string>
+    <string name="bigger">A+</string>
+    <string name="no_results">No songs found.</string>
+    <string name="error">Something went wrong: %1$s</string>
+</resources>
